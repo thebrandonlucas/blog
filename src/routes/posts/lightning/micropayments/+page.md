@@ -261,4 +261,4 @@ See [bolt.fun](http://bolt.fun), the [Lightning App Directory](https://dev.light
 
 ## Conclusion
 
-Micropayments have arrived on the web, and this article just scratches the surface of what’s possible. While there are significant technological and psychological problems remaining, I hope the above examples show how far we’ve already come -- and how much further we can go -- for a cleaner, freer, and more expressive internet.
+Micropayments have arrived on the web, and this article just scratches the surface of what’s possible. While there are significant technological and mental barriers remaining, I hope the above examples show how far we’ve already come -- and how much further we can go -- for a cleaner, freer, and more expressive internet.
