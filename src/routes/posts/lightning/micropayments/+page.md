@@ -4,6 +4,8 @@ _March 10, 2023_
 
 _Content monetization on the internet is broken. Credit card fees prohibit the ability to make small payments for individual pieces of content. Creators have to choose between invading user privacy by selling their data, annoying them with a barrage of ads, or putting up paywalls and forcing them to sign up for subscriptions to continue. The Lightning Network offers a new, alternative monetization strategy in the form of micropayments._
 
+Check out the [Voltage](https://voltage.cloud/) presentation on this topic [here](https://youtu.be/6Vq6foKst54).
+
 ## Before Bitcoin
 
 Before the World Wide Web, the internet, or even the personal computer revolution, the concept of making tiny payments in exchange for digital content had already been conceptualized. The term “micropayment” can be traced back to Ted Nelson as early as 1960, when he began brainstorming his ideas for what a globally accessible, computer-based repository of human knowledge could look like, and coined many other terms and ideas that are used on the web today, like “hypertext” and “hypermedia”. While often failing to implement his own vision for the web (and being vocally regretful of how the web took shape), others took many of his ideas and built them into what we know it as today.
@@ -233,6 +235,8 @@ _Possible micropayment use cases:_
 
 ### Projects Using Micropayments
 
+Finally, here is a short list of projects using micropayments that I found interesting:
+
 - [micropay.ai](https://micropay.ai/): Micropayments to generate images using DALLE-2
 - [WebLN Experiments](https://webln.twentyuno.net/): A collection of various WebLN demos
 - [LN VPN](https://lnvpn.net/): Pay as you go VPN service, pay as little as $0.1 for 1 hour
@@ -249,8 +253,4 @@ See [bolt.fun](http://bolt.fun), the [Lightning App Directory](https://dev.light
 
 ## Conclusion
 
-This article just scratches the surface of what’s possible with micropayments. While there are significant problems remaining, both technical and psychological, I hope the above examples show how far we’ve already come — how many things are possible now that _weren’t_ possible just a couple years ago. There is often a tendency for people, even (perhaps especially) technologists, to be skeptical of what’s possible with tech that hasn’t been invented yet. And while we need healthy skepticism, in my view, Bitcoin and the Lightning Network should be evidence in favor of a fundamentally optimistic outlook.
-
-**Note:** I’m sure I made some mistakes writing this. If you find anything inaccurate, please let me know and I will update it.
-
-Check out the [companion presentation](https://youtu.be/6Vq6foKst54) to this article I did as a workshop at [Voltage](https://voltage.cloud/)
+Micropayments have arrived on the web, and this article just scratches the surface of what’s possible. While there are significant technological and psychological problems remaining, I hope the above examples show how far we’ve already come -- and how much further we can go -- for a cleaner, freer, and more expressive internet.
