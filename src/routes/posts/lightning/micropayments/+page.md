@@ -1,3 +1,9 @@
+<svelte:head>
+
+  <title>Micropayments and the Lightning Network</title>
+  <meta name="description" content="Content monetization on the internet is broken. Credit card fees prohibit the ability to make small payments for individual pieces of content. Creators have to choose between invading user privacy by selling their data, annoying them with a barrage of ads, or putting up paywalls and forcing them to sign up for subscriptions to continue. The Lightning Network offers a new, alternative monetization strategy in the form of micropayments." />
+</svelte:head>
+
 # Micropayments and the Lightning Network
 
 _March 10, 2023_
