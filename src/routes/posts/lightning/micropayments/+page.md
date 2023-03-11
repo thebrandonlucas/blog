@@ -12,6 +12,8 @@ _Content monetization on the internet is broken. Credit card fees prohibit the a
 
 Check out the [Voltage](https://voltage.cloud/) presentation on this topic [here](https://youtu.be/6Vq6foKst54).
 
+_If you're interested in learning more about the history of micropayments, check out [Amber Case's article](https://caseorganic.medium.com/who-killed-the-micropayment-a-history-ec9e6eb39d05) and the [Open Index Protocol's episode](https://www.youtube.com/watch?v=9_6cLtpf3AE)_
+
 ## Before Bitcoin
 
 Before the World Wide Web, the internet, or even the personal computer revolution, the concept of making tiny payments in exchange for digital content had already been conceptualized. The term “micropayment” can be traced back to Ted Nelson as early as 1960, when he began brainstorming his ideas for what a globally accessible, computer-based repository of human knowledge could look like, and coined many other terms and ideas that are used on the web today, like “hypertext” and “hypermedia”. While often failing to implement his own vision for the web (and being vocally regretful of how the web took shape), others took many of his ideas and built them into what we know it as today.
