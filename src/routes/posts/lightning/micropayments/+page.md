@@ -44,7 +44,7 @@ Perhaps the most notable of these companies, which would go on to have a lasting
 
 Other micropayment efforts were also dissolving around the same time, and the W3C itself [closed their contributions to micropayment activity](https://www.w3.org/ECommerce/Micropayments/) in 1998.
 
-The dot-com crash was in full swing, and micropayments was one of the ideas that crashed the hardest. It was a good time to be a critic. In 2000, writer Clay Shirky wrote [“The Case Against Micropayments”](http://mx.thirdvisit.co.uk/2002/10/04/theacaseaagainstamicropayments/) in which he boldly declared:
+The dot-com crash was in full swing, and micropayments were one of the ideas that crashed the hardest. It was a good time to be a critic. In 2000, writer Clay Shirky wrote [“The Case Against Micropayments”](http://mx.thirdvisit.co.uk/2002/10/04/theacaseaagainstamicropayments/) in which he boldly declared:
 
 > Micropayment systems have not failed because of poor implementation; they have failed because they are a bad idea. Furthermore, since their weakness is systemic, they will continue to fail in the future.
 
