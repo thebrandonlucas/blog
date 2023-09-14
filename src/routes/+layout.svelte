@@ -4,7 +4,7 @@
 	import Icon from '../components/Icon/Icon.svelte';
 	import { themeIcon, toggleDarkMode } from '../lib/theme';
 
-	$: selectedTab = $page.url.searchParams.get('tab') || 'articles';
+	$: selectedTab = $page.url.searchParams.get('tab') || 'blog';
 </script>
 
 <svelte:head>
