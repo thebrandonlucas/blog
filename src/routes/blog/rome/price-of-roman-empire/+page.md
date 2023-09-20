@@ -1,7 +1,7 @@
 <svelte:head>
 
   <title>The Roman Empire was Sold at a Public Auction</title>
-  <meta name="description" content="The Roman Empire was the most expansive empire in history, encompassing most of the known world at its height. And yet, near its height, the mighty empire was sold for public auction by it's highest ranking military branch: the Praetorian Guards." />
+  <meta name="description" content="The Roman Empire was one of the most expansive in history, encompassing much of the known world. And yet, near its height, this mighty empire was sold for public auction by it's highest ranking military branch: the Praetorian Guards." />
 </svelte:head>
 
 # The Roman Empire was Sold at a Public Auction
