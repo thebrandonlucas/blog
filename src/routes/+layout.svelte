@@ -4,7 +4,7 @@
 	import Icon from '../components/Icon/Icon.svelte';
 	import { themeIcon, toggleDarkMode } from '../lib/theme';
 
-	$: selectedTab = $page.url.searchParams.get('tab') || 'blog';
+	$: selectedTab = $page.url.searchParams.get('tab') || 'articles';
 </script>
 
 <svelte:head>
@@ -39,18 +39,19 @@
 		</div>
 	</div>
 	<div class="flex gap-8">
-		<a
-			href="/?tab=articles"
-			class={`hover:text-gray-500 transition-all ${selectedTab === 'articles' && 'text-gray-500'}`}
-			>Articles</a
-		>
-		<a
-			href="/?tab=blog"
-			class={`hover:text-gray-500 transition-all ${selectedTab === 'blog' && 'text-gray-500'}`}
-			>Blog</a
-		>
+		<a href="/?tab=articles" class={`${selectedTab === 'articles' && 'selected'}`}>Articles</a>
+		<a href="/?tab=blog" class={`${selectedTab === 'blog' && 'selected'}`}>Blog</a>
 	</div>
 	<div>
 		<slot />
 	</div>
 </div>
+
+<style lang="postcss">
+	a {
+		@apply no-underline;
+	}
+	.selected {
+		@apply underline;
+	}
+</style>
