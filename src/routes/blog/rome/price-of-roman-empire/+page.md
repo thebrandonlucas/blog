@@ -22,7 +22,7 @@ Sulpicianus, the governor of Rome, upon hearing this mutiny, rode out to meet th
 
 > He [Sulpicianus] had already begun to use the only effectual argument, and to treat for the Imperial dignity; but the more prudent of the Praetorians, apprehensive that, in this private contract, they should not obtain a just price for so valuable a commodity, ran out upon the ramparts; and, with a loud voice, proclaimed that the Roman world was to be disposed of to the best bidder by public auction. This infamous offer, the most insolent excess of military licence, diffused an universal grief, shame, and indignation throughout the city.
 
-Rome, the empire encompassing nearly the whole European world, just past the height of its power and after the end of a long period of peace, was up for sale to the highest bidder. Events like this make you consider the stability of our own, modern governments.
+Rome, the empire encompassing nearly the whole European world, just past the height of its power and after the end of a long period of peace, was up for sale to the highest bidder.
 
 The buyer ended up being a wealthy senator, Didius Julianus, who won the bid against Sulpicianus, and who was placed on the throne soon thereafter, paraded to his new palace ceremoniously by the Praetorians. After a big party and celebration, when the excitement had died down and he was left alone, Julianus was haunted by the gravity of what he'd done:
 
@@ -38,4 +38,4 @@ The empire from which Europe derived its language, culture, and religion (would 
 
 If the uncontested dominant country of the ancient world could be sold at an auction, how brittle does that make our modern governments in comparison?
 
-The auctioning off of Rome should give us pause, especially those of us who live in countries which flatter themselves with the illusion of stability, and force us to reflect on how easily our own lives can be disrupted or destroyed by the cascading effects of despotic leaders combined with a population devoid of a spirit of public virtue. And with history as a guide, what actions we as individuals can take to prevent it.
+The auctioning off of Rome should give us pause, especially those of us who live in countries which flatter themselves with the illusion of stability, and force us to reflect on how easily our own lives can be disrupted or destroyed by the cascading effects of despotic leaders, combined with a population devoid of a spirit of public virtue.
