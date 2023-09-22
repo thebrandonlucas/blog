@@ -33,7 +33,10 @@
 				rel="noreferrer"
 				href="https://twitter.com/brandonstlucas"><Icon name="twitter" /></a
 			>
-			<button class="hover:text-gray-500 transition-all text-4xl" on:click={toggleDarkMode}>
+			<button
+				class="hover:text-gray-500 dark:hover:text-gray-500 dark:text-white text-black transition-all text-4xl"
+				on:click={toggleDarkMode}
+			>
 				<Icon name={$themeIcon} />
 			</button>
 		</div>
