@@ -1,10 +1,10 @@
 <svelte:head>
 
-  <title>The World's First Monotheist</title>
+  <title>The First Monotheist</title>
   <meta name="description" content="Zoroaster founded the world's first monotheistic religion, thereby opening a new chapter in world history." />
 </svelte:head>
 
-# The World's First Monotheist
+# The First Monotheist
 
 _September 21, 2023_
 
