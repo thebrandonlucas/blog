@@ -1,3 +1,3 @@
-### [The Roman Empire was Sold at a Public Auction](/blog/rome/price-of-roman-empire)
+### [The World's First Monotheist](/blog/rome/worlds-first-monotheist)
 
-_September 14, 2023_
+_September 21, 2023_
