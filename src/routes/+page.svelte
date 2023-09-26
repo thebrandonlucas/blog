@@ -2,6 +2,7 @@
 	import { page } from '$app/stores';
 	import Articles from '../Markdown/Articles.md';
 	import Blog from '../Markdown/Blog.md';
+	import Quotes from '../Markdown/Quotes.md';
 
 	$: selectedTab = $page.url.searchParams.get('tab') || 'articles';
 </script>
@@ -10,4 +11,6 @@
 	<Articles />
 {:else if selectedTab === 'blog'}
 	<Blog />
+{:else if selectedTab === 'quotes'}
+	<Quotes />
 {/if}

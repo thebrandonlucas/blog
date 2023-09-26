@@ -44,6 +44,7 @@
 	<div class="flex gap-8">
 		<a href="/?tab=articles" class={`${selectedTab === 'articles' && 'selected'}`}>Articles</a>
 		<a href="/?tab=blog" class={`${selectedTab === 'blog' && 'selected'}`}>Blog</a>
+		<a href="/?tab=quotes" class={`${selectedTab === 'quotes' && 'selected'}`}>Quotes</a>
 	</div>
 	<div>
 		<slot />
