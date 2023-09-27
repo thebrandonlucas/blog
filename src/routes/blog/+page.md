@@ -1,4 +1,4 @@
-### [Reading, Writing, and Civilization](/blog/reading-writing-civilization)
+### [Reading, Writing, and Civilization](/blog/rome/reading-writing-civilization)
 
 _September 26, 2023_
 
