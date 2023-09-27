@@ -4,7 +4,13 @@
 	import Icon from '../components/Icon/Icon.svelte';
 	import { themeIcon, toggleDarkMode } from '../lib/theme';
 
-	$: selectedTab = $page.url.searchParams.get('tab') || 'articles';
+	$: console.log({ selectedLink, $page });
+
+	$: selectedLink = $page.url.pathname.includes('blog')
+		? 'blog'
+		: $page.url.pathname.includes('quotes')
+		? 'quotes'
+		: 'articles';
 </script>
 
 <svelte:head>
@@ -42,9 +48,9 @@
 		</div>
 	</div>
 	<div class="flex gap-8">
-		<a href="/?tab=articles" class={`${selectedTab === 'articles' && 'selected'}`}>Articles</a>
-		<a href="/?tab=blog" class={`${selectedTab === 'blog' && 'selected'}`}>Blog</a>
-		<a href="/?tab=quotes" class={`${selectedTab === 'quotes' && 'selected'}`}>Quotes</a>
+		<a href="/articles" class={`${selectedLink === 'articles' && 'selected'}`}>Articles</a>
+		<a href="/blog" class={`${selectedLink === 'blog' && 'selected'}`}>Blog</a>
+		<a href="/quotes" class={`${selectedLink === 'quotes' && 'selected'}`}>Quotes</a>
 	</div>
 	<div>
 		<slot />
