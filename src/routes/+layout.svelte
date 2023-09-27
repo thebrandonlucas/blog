@@ -4,8 +4,6 @@
 	import Icon from '../components/Icon/Icon.svelte';
 	import { themeIcon, toggleDarkMode } from '../lib/theme';
 
-	$: console.log({ selectedLink, $page });
-
 	$: selectedLink = $page.url.pathname.includes('blog')
 		? 'blog'
 		: $page.url.pathname.includes('quotes')
