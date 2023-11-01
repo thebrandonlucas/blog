@@ -34,5 +34,7 @@
 		"vite": "^4.1.4"
 	},
 	"type": "module",
-	"dependencies": {}
+	"dependencies": {
+		"mdsvex-relative-images": "^1.0.3"
+	}
 }
