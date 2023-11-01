@@ -382,4 +382,4 @@ If you'd like to support or contribute to payjoin's development, start by joinin
 
 ## Acknowledgements
 
-I want to give a huge thank you to Dan Gould for reviewing this article, and all the hard work he's done for payjoin adoption.
+I want to give a huge thank you to Dan Gould for reviewing and suggesting very helpful improvements to this article.
