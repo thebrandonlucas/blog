@@ -1,3 +1,7 @@
+### [Hitler Really Thought That](/blog/hitler-really-thought-that)
+
+_November 20, 2023_
+
 ### [Churchill on Chamberlain](/blog/churchill-on-chamberlain)
 
 _November 10, 2023_
