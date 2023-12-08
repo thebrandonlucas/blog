@@ -6,6 +6,8 @@ _December 7, 2023_
 
 > The best thing that can happen to a human being is to find a problem, to fall in love with that problem, and to live trying to solve that problem, unless another problem even more lovable appears.
 
+- Karl Popper
+
 > Those who are governed by reason desire nothing for themselves which they do not also desire for the rest of humankind.
 
 - Spinoza
