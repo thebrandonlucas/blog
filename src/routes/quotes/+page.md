@@ -14,13 +14,13 @@ _December 9, 2023_
 
 _December 7, 2023_
 
-> The best thing that can happen to a human being is to find a problem, to fall in love with that problem, and to live trying to solve that problem, unless another problem even more lovable appears.
+> I think that there is only one way to science - or to philosophy, for that matter: to meet a problem, to see its beauty and fall in love with it; to get married to it and to live with it happily, till death do ye part - unless you should meet another and even more fascinating problem or unless, indeed, you should obtain a solution. But even if you do obtain a solution, you may then discover, to your delight, the existence of a whole family of enchanting, though perhaps difficult, problem children, for whose welfare you may work, with a purpose, to the end of your days.
 
-- Karl Popper
+- Karl Popper, _Realism and the Aim of Science_
 
-> Those who are governed by reason desire nothing for themselves which they do not also desire for the rest of humankind.
+> Hence, men who are governed by reason [...] desire for themselves nothing, which they do not also desire for the rest of mankind
 
-- Spinoza
+- Spinoza, Part IV, Prop XVIII
 
 ---
 
