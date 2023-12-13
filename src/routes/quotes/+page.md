@@ -2,6 +2,14 @@ _Quotes I find interesting from things I read or hear_
 
 ---
 
+_December 13, 2023_
+
+> Math constitutes the language through which alone we can adequately express the great facts of the natural world. And it allows us to portray the changes of mutual relationship that unfold in creation. It is the instrument through which the weak mind of man can most effectually read his creator's works.
+
+- Ada Lovelace, quoted from _The Innovators_ by Walter Isaacson, Ch. 1
+
+---
+
 _December 9, 2023_
 
 > It is wrong to think that belief in freedom always leads to victory; we must always be prepared for it to lead to defeat. If we choose freedom, then we must be prepared to perish along with it.
