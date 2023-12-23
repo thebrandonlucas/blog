@@ -2,6 +2,14 @@ _Quotes I find interesting from things I read or hear_
 
 ---
 
+_December 22, 2023_
+
+> Life everywhere is life, life is in ourselves and not in the external. There will be people near me, and to be a human being among human beings, and remain one forever, no matter what misfortunes befall, not to become depressed, and not to falter -- this is what life is, herein lies its task.
+
+- Fyodor Dostoevsky, in a letter to his brother, the day he was pardoned from execution by firing squad.
+
+---
+
 _December 13, 2023_
 
 > Math constitutes the language through which alone we can adequately express the great facts of the natural world. And it allows us to portray the changes of mutual relationship that unfold in creation. It is the instrument through which the weak mind of man can most effectually read his creator's works.
