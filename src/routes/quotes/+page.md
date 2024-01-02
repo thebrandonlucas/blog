@@ -2,6 +2,14 @@ _Quotes I find interesting from things I read or hear_
 
 ---
 
+_January 1, 2024_
+
+> Why, Oppenheimer knows about everything. He can talk to you about anything you bring up. Well, not exactly. I guess there are a few things he doesn't know about. He doesn't know anything about sports.
+
+- General Leslie Groves, quoted from American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer, pp. 185-186.
+
+---
+
 _December 22, 2023_
 
 > Life everywhere is life, life is in ourselves and not in the external. There will be people near me, and to be a human being among human beings, and remain one forever, no matter what misfortunes befall, not to become depressed, and not to falter -- this is what life is, herein lies its task.
