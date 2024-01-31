@@ -1,3 +1,7 @@
+### [Zero to Prod: Chapter 4 Summary](/blog/z2p-ch4)
+
+_January 30, 2024_
+
 ### [Hitler Really Thought That](/blog/hitler-really-thought-that)
 
 _November 20, 2023_
