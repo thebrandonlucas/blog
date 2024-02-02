@@ -2,6 +2,14 @@ _Quotes I find interesting from things I read or hear_
 
 ---
 
+_Feb 2, 2024_
+
+> [...] teenagers are always on duty as conformists.
+
+- Paul Graham, [_Why Nerds are Unpopular_](https://paulgraham.com/nerds.html)
+
+---
+
 _January 1, 2024_
 
 > Why, Oppenheimer knows about everything. He can talk to you about anything you bring up. Well, not exactly. I guess there are a few things he doesn't know about. He doesn't know anything about sports.
