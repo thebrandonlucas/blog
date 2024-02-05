@@ -8,6 +8,8 @@ _Feb 5, 2024_
 
 - Bias of Priene, quoted from _The Life of Greece_ by Will Durant, Ch. VI The Great Migration
 
+---
+
 _Feb 2, 2024_
 
 > [...] teenagers are always on duty as conformists.
