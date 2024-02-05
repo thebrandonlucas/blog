@@ -4,7 +4,7 @@ _Quotes I find interesting from things I read or hear_
 
 _Feb 5, 2024_
 
-> [...] the most unfortunate of men is he who has not learned how to bear misfortune [...] men ought to order their lives as if they were fated to live both a long and a short time, [and that] wisdom should be cherished as a means of traveling from youth to old age, for it is more lasting than any other possession.
+> [...] the most unfortunate of men is he who has not learned how to bear misfortune [...] men ought to order their lives as if they were fated to live both a long and a short time, [and] wisdom should be cherished as a means of traveling from youth to old age, for it is more lasting than any other possession.
 
 - Bias of Priene, quoted from _The Life of Greece_ by Will Durant, Ch. VI The Great Migration
 
