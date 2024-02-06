@@ -1,4 +1,10 @@
-# Zero to Prod Chapter 4 Summary
+<svelte:head>
+
+  <title>Zero to Prod Chapter 4 Summary - Telemetry</title>
+  <meta name="description" content="The 4th chapter of Zero2Prod in Rust examines how to setup a robust telemetry and logging system." />
+</svelte:head>
+
+# Zero to Prod Chapter 4 Summary - Telemetry
 
 _January 30, 2024_
 
