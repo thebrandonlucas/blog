@@ -6,6 +6,10 @@
 
 # Zero2Prod Chapter 5 Summary - Deployments
 
+_Feb 6, 2024_
+
+_This blog post is me trying to reinforce what I've learned. Hopefully this helps someone, but I've probably made some mistakes._
+
 This chapter was all about deployments, which, as the author explains, is often overlooked in programming books because the advice is unstable. What is considered "best practice" is still in flux and up for debate, and therefore people are hesitant to write books about topics whose material will become outdated shortly after publication. Anyone who's read an older programming book knows this pain, and how it can slow and confuse the learning process. I'm not going to highlight all the code that the author goes through in this chapter, but instead focus on knowledge gaps I had while reading and try to fill them based on what we did, as well as reiterate useful tidbits to myself for the future.
 
 But deployments are such an essential aspect of modern programming that the author feels duty-bound to include it, and we learn a lot of fun concepts along the way.
