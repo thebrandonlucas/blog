@@ -2,6 +2,14 @@ _Quotes I find interesting from things I read or hear_
 
 ---
 
+_Feb 6, 2024_
+
+> I see now more clearly than ever before that even our greatest troubles spring from something that is as admirable and sound as it is dangerous -- from our impatience to better the lot of our fellows.
+
+- Karl Popper, _The Open Society and it's Enemies_, preface to the second edition
+
+---
+
 _Feb 5, 2024_
 
 > [...] the most unfortunate of men is he who has not learned how to bear misfortune [...] men ought to order their lives as if they were fated to live both a long and a short time, [and] wisdom should be cherished as a means of traveling from youth to old age, for it is more lasting than any other possession.
