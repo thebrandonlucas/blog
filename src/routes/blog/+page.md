@@ -1,4 +1,8 @@
-### [Zero to Prod: Chapter 4 Summary](/blog/z2p-ch4)
+### [Zero to Prod: Chapter 5 Summary - Deployments](/blog/z2p-ch5)
+
+_Feb 6, 2024_
+
+### [Zero to Prod: Chapter 4 Summary - Telemetry](/blog/z2p-ch4)
 
 _January 30, 2024_
 
