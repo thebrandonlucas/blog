@@ -2,6 +2,14 @@ _Quotes I find interesting (not necessarily correct!) from things I read or hear
 
 ---
 
+_Feb 23, 2024_
+
+> The road to serfdom consists of working exponentially harder for a currency growing exponentially weaker.
+
+- Vijay Boyapati, The Bullish Case for Bitcoin
+
+---
+
 _Feb 16, 2024_
 
 > Loneliness is a tax you have to pay to atone for a certain complexity of mind.
