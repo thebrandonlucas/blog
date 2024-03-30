@@ -54,7 +54,7 @@ His primary argument for their fundamental flaw was not technological or infrast
 
 Shirky went on to predict three methods of payment that would become dominant on the web which did not suffer from the decision fatigue problem: aggregation (bundling low-value things into a single higher-value transaction), subscription, and subsidy (getting someone other than the user to pay for the content — today this has manifested itself as the ad model).
 
-By the end of the dot-com crash, Shirky’s predictions were looking more salient. Credit cards, with their infrastructure costs prohibiting payments of less than $1, had become the de-facto method of payment, and passion for the micropayments project was losing steam. What was a self-evident and exciting prospect for the web’s future faded against the backdrop of its increasingly centralized, surveilled, and ad-driven predecessor — Web 2.0.
+By the end of the dot-com crash, Shirky’s predictions were looking more salient. Credit cards, with their infrastructure costs prohibiting payments of less than $1, had become the de-facto method of payment, and passion for the micropayments project was losing steam. What was a self-evident and exciting prospect for the web’s future faded against the backdrop of its increasingly centralized, surveilled, and ad-driven successor — Web 2.0.
 
 ## Bitcoin and the Centralized Web
 
