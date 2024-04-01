@@ -2,6 +2,14 @@ _Quotes I find interesting (not necessarily correct!) from things I read or hear
 
 ---
 
+_Mar 30, 2024_
+
+> The evil was not in the bread and circuses, per se, but in the willingness of the people to sell their rights as free men for full bellies and the excitement of the games which would serve to distract them from the other human hungers which bread and circuses can never appease.
+
+- Cicero
+
+---
+
 _Mar 25, 2024_
 
 > The heritage that we can now more fully transmit is richer than ever before. It is richer than that of Pericles, for it includes all the Greek flowering that followed him; richer than Leonardo’s, for it includes him and the Italian Renaissance; richer than Voltaire’s, for it embraces all the French Enlightenment and its ecumenical dissemination. If progress is real despite our whining, it is not because we are born any healthier, better, or wiser than infants were in the past, but because we are born to a richer heritage, born on a higher level of that pedestal which the accumulation of knowledge and art raises as the ground and support of our being. The heritage rises, and man rises in proportion as he receives it.
