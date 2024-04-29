@@ -2,6 +2,14 @@ _Quotes I find interesting (not necessarily correct!) from things I read or hear
 
 ---
 
+_Apr 29, 2024_
+
+> You are carrying God about you, you poor wretch, and know it not.
+
+- Epictetus, quoted from _Caesar and Christ_ by Will Durant
+
+---
+
 _Mar 30, 2024_
 
 > The evil was not in the bread and circuses, per se, but in the willingness of the people to sell their rights as free men for full bellies and the excitement of the games which would serve to distract them from the other human hungers which bread and circuses can never appease.
