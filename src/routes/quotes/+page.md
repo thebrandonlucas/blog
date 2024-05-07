@@ -2,11 +2,21 @@ _Quotes I find interesting (not necessarily correct!) from things I read or hear
 
 ---
 
+_May 7, 2024_
+
+> Gratitude is not only the greatest of virtues, but the parent of all the others.
+
+- Cicero
+
+---
+
 _May 3, 2024_
 
 > The object of life is not to be on the side of the majority, but to escape finding oneself in the ranks of the insane.
 
 - Marcus Aurelius, _Meditations_
+
+---
 
 _Apr 29, 2024_
 
