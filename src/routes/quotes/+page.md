@@ -2,6 +2,14 @@ _Quotes I find interesting (not necessarily correct!) from things I read or hear
 
 ---
 
+_May 15, 2024_
+
+> "[...] books are the main peer group of any thinker."
+
+- Henrik Karlsson, [_On Having More Interesting Ideas_](https://www.henrikkarlsson.xyz/p/interesting-ideas?publication_id=313411&post_id=144649421&isFreemail=true&token=eyJ1c2VyX2lkIjoxNDE2MTUzMiwicG9zdF9pZCI6MTQ0NjQ5NDIxLCJpYXQiOjE3MTU3ODY5ODcsImV4cCI6MTcxODM3ODk4NywiaXNzIjoicHViLTMxMzQxMSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.DFM9JLc0P3Xci070_0fpxx4BJv4i1U8FSRbfJTvvM0o&r=8fj3w&triedRedirect=true)
+
+---
+
 _May 7, 2024_
 
 > Gratitude is not only the greatest of virtues, but the parent of all the others.
