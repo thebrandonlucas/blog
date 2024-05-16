@@ -1,10 +1,22 @@
 _Quotes I find interesting (not necessarily correct!) from things I read or hear_
 
+_May 16, 2024_
+
+> Congregations love to be scolded, but not reformed
+
+- Will Durant, _The Age of Faith_
+
+_May 16, 2024_
+
+> Educate the children and it won't be necessary to punish the men.
+
+- Pythagoras
+
 ---
 
 _May 15, 2024_
 
-> "[...] books are the main peer group of any thinker."
+> [...] books are the main peer group of any thinker.
 
 - Henrik Karlsson, [_On Having More Interesting Ideas_](https://www.henrikkarlsson.xyz/p/interesting-ideas?publication_id=313411&post_id=144649421&isFreemail=true&token=eyJ1c2VyX2lkIjoxNDE2MTUzMiwicG9zdF9pZCI6MTQ0NjQ5NDIxLCJpYXQiOjE3MTU3ODY5ODcsImV4cCI6MTcxODM3ODk4NywiaXNzIjoicHViLTMxMzQxMSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.DFM9JLc0P3Xci070_0fpxx4BJv4i1U8FSRbfJTvvM0o&r=8fj3w&triedRedirect=true)
 
