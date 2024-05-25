@@ -6,6 +6,8 @@ _May 16, 2024_
 
 - Will Durant, _The Age of Faith_
 
+---
+
 _May 16, 2024_
 
 > Educate the children and it won't be necessary to punish the men.
