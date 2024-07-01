@@ -2,11 +2,13 @@ _Quotes I find interesting (not necessarily correct!) from things I read or hear
 
 _June 30, 2024_
 
-> "Our legacy is to fill the Universe with children who laugh more than we were allowed to."
+> Our legacy is to fill the Universe with children who laugh more than we were allowed to.
 
 - Noah Smith, [_Toward a Shallower Future_](https://www.noahpinion.blog/p/toward-a-shallower-future)
 
 _May 16, 2024_
+
+---
 
 > Congregations love to be scolded, but not reformed
 
