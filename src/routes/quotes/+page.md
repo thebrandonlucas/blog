@@ -1,5 +1,15 @@
 _Quotes I find interesting (not necessarily correct!) from things I read or hear_
 
+---
+
+_July 13, 2024_
+
+> We are living through an advice pandemic and nobody appears to have yet discovered an effective vaccine.
+
+- Tom Cox, [_Can You Please Stop Telling Me To Live My Best Life Please_](https://tomcox.substack.com/p/can-you-please-stop-telling-me-to)
+
+---
+
 _July 8, 2024_
 
 > Bless you prison, bless you for being in my life. For there, lying upon the rotting prison straw, I came to realize that the object of life is not prosperity as we are made to believe, but the maturity of the human soul.
