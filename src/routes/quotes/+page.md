@@ -4,6 +4,14 @@ _Quotes I find interesting (not necessarily correct!) from things I read or hear
 
 _July 30, 2024_
 
+> Friendship is not to be sought for its wages, but because its revenue consists entirely in the love which it implies
+
+- Cicero, _On Friendship_
+
+---
+
+_July 30, 2024_
+
 > Direct self observation is not nearly sufficient for us **to know ourselves: we need history**, **for the past flows on within us in a hundred waves**. Indeed, we ourselves are nothing but that which at every moment we experience of this continual flowing.
 
 - Nietzsche, 1878, _Human, All Too Human_
