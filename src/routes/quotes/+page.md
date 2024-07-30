@@ -60,14 +60,6 @@ _July 30, 2024_
 
 ---
 
-_July 30, 2024_
-
-> We must be very careful when we give advice to younger people; sometimes they follow it!
-
-- Edsger Dijkstra, 1984, [_The Threats to Computing Science_](https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD898.html)
-
----
-
 _July 13, 2024_
 
 > We are living through an advice pandemic and nobody appears to have yet discovered an effective vaccine.
