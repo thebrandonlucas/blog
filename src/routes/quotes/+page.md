@@ -2,6 +2,64 @@ _Quotes I find interesting (not necessarily correct!) from things I read or hear
 
 ---
 
+_July 30, 2024_
+
+> Direct self observation is not nearly sufficient for us **to know ourselves: we need history**, **for the past flows on within us in a hundred waves**. Indeed, we ourselves are nothing but that which at every moment we experience of this continual flowing.
+
+- Nietzsche, 1878, _Human, All Too Human_
+
+---
+
+_July 30, 2024_
+
+> I’m increasingly certain that there are others like me in the world, alive right now, quietly suppressing themselves for social reasons. I hear from more of them every month. They suppress themselves because they don’t personally know of any House of Wisdom that they could attend to fully be themselves in. Because the scale and scope of their interests don’t quite correspond with that of those of the people around them, and they don’t know if it’s worth opening up about their inner truths – because they believe, accurately according to their past experience, that the likeliest outcome is that people will misunderstand them. A confused “huh?” is often the best you can hope for. Far better than being mocked, insulted, laughed at, dismissed.
+
+> Over the years, I’ve increasingly developed a sense of lightness, clarity, courage and conviction in realizing that these are *my people*. That when I’m writing for the younger version of myself, and the future versions of myself, I’m writing for them. For *us*. All of us. I’m a me, but I’m also a we. And there is a deep kinship in that, a deep sense of belonging. And I have decided that I am willing to endure any amount of mockery and misunderstanding from the people who don’t get it, to be a bridge to the people who do. Because more than anything else, that is what I wish I had in my life. A space to understand and be understood. I found it first mainly in books. I have since found it in like-minded nerds. And I hope to share it with literally anybody else who wants it
+
+- Visakan Veerasamy, [_We Were Voyagers_](https://visakanv.substack.com/p/we-were-voyagers)
+
+---
+
+_July 30, 2024_
+
+> Nobody worth hero-worshipping would want you to worship them. They would want you to [become heroic yourself](https://visakanv.substack.com/p/are-you-serious).
+
+- Visakan Veerasamy, [_We Were Voyagers_](https://visakanv.substack.com/p/we-were-voyagers)
+
+---
+
+_July 30, 2024_
+
+> Meek young men grow up in libraries, believing it is their duty to accept the views which Cicero, which Locke, which Bacon, have given; forgetful that Cicero, Locke, and Bacon were only young men in libraries when they wrote these books.
+
+- Ralph Waldo Emerson, [_The American Scholar_](https://emersoncentral.com/texts/nature-addresses-lectures/addresses/the-american-scholar/)
+
+---
+
+_July 30, 2024_
+
+> The question of whether Machines Can Think is about as relevant as the question of whether Submarines Can Swim
+
+- Edsger Dijkstra, 1984, [_The Threats to Computing Science_](https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD898.html)
+
+---
+
+_July 30, 2024_
+
+> We must be very careful when we give advice to younger people; sometimes they follow it!
+
+- Edsger Dijkstra, The Humble Programmer
+
+---
+
+_July 30, 2024_
+
+> We must be very careful when we give advice to younger people; sometimes they follow it!
+
+- Edsger Dijkstra, 1984, [_The Threats to Computing Science_](https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD898.html)
+
+---
+
 _July 13, 2024_
 
 > We are living through an advice pandemic and nobody appears to have yet discovered an effective vaccine.
@@ -179,6 +237,10 @@ _December 7, 2023_
 > I think that there is only one way to science - or to philosophy, for that matter: to meet a problem, to see its beauty and fall in love with it; to get married to it and to live with it happily, till death do ye part - unless you should meet another and even more fascinating problem or unless, indeed, you should obtain a solution. But even if you do obtain a solution, you may then discover, to your delight, the existence of a whole family of enchanting, though perhaps difficult, problem children, for whose welfare you may work, with a purpose, to the end of your days.
 
 - Karl Popper, _Realism and the Aim of Science_
+
+---
+
+_December 7, 2023_
 
 > Hence, men who are governed by reason [...] desire for themselves nothing, which they do not also desire for the rest of mankind
 
